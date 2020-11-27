@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@vercel/node": "^1.8.5"
+  },
+  "dependencies": {
+    "faunadb": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
