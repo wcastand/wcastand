@@ -1,6 +1,4 @@
-# Welcome to my README
-
-## Intoduction
+## Introduction
 
 ```typescript
 import Informations from 'self-description'
