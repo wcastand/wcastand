@@ -8,8 +8,6 @@ const basic_infos: Informations = () => ({
   lastname: 'Castandet',
   age: 29,
   location: 'France',
-  email: 'wcastand@gmail.com',
-  phone: '+33 7 64 24 81 53',
   github: 'wcastand',
   npm: 'wcastand',
 })
