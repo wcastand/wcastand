@@ -114,7 +114,7 @@ const basic_infos: Informations = () => ({
 
 <details>
 
-```json
+```js
 {
   "title": "Fullstack Javascript developer",
   "skills": `
@@ -132,7 +132,7 @@ const basic_infos: Informations = () => ({
 
 <details>
 
-```json
+```js
 {
   "title": "Fullstack Javascript developer",
   "skills": `
@@ -149,7 +149,7 @@ const basic_infos: Informations = () => ({
 
 <details>
 
-```json
+```js
 {
   "title": "Fullstack Javascript developer",
   "skills": `
@@ -167,7 +167,7 @@ const basic_infos: Informations = () => ({
 
 <details>
 
-```json
+```js
 {
   "title": "PHP/Js developer",
   "skills": `
@@ -183,7 +183,7 @@ const basic_infos: Informations = () => ({
 
 <details>
 
-```json
+```js
 {
   "title": "PHP developer | designer",
   "skills": `Create mobile website based on a design gave to me at the time. Help as a designer to
