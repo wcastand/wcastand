@@ -65,51 +65,6 @@ const basic_infos: Informations = () => ({
 - Interactive design (graph, ...)
 - Articles / blog / community based tools / ...
 
-## Education
-
-#### Master 1 - 3D (2014 - 2015)
-
-<details>
-
-```json
-{
-  "school": "ESTEI",
-  "skills": "3D - Maya, 3DS Max, Nuke, Fusion, Max Scripts, Python, Lua, ..."
-}
-```
-
-</details>
-
-#### Bachelor IT / Multimedia (2011 - 2014)
-
-<details>
-
-```json
-{
-  "school": "ESTEI",
-  "skills": [
-    "3D - 3DS Max, Fusion, color theory, Storyboard",
-    "Design - Adobe suite, After Effects, Premiere",
-    "Web - Javascript, PHP, MySQL, HTML, CSS, Flash"
-  ]
-}
-```
-
-</details>
-
-#### DUT IT (2009 - 2011)
-
-<details>
-
-```json
-{
-  "school": "University of La Rochelle",
-  "skills": "C++, Java, C, SQL, Embedded computing"
-}
-```
-
-</details>
-
 ### Experiences
 
 #### Paybase (May 2019 - July 2020)
@@ -190,6 +145,51 @@ const basic_infos: Informations = () => ({
   "title": "PHP developer | designer",
   "skills": `Create mobile website based on a design gave to me at the time. Help as a designer to
   create poster, ads and web design.`
+}
+```
+
+</details>
+
+## Education
+
+#### Master 1 - 3D (2014 - 2015)
+
+<details>
+
+```json
+{
+  "school": "ESTEI",
+  "skills": "3D - Maya, 3DS Max, Nuke, Fusion, Max Scripts, Python, Lua, ..."
+}
+```
+
+</details>
+
+#### Bachelor IT / Multimedia (2011 - 2014)
+
+<details>
+
+```json
+{
+  "school": "ESTEI",
+  "skills": [
+    "3D - 3DS Max, Fusion, color theory, Storyboard",
+    "Design - Adobe suite, After Effects, Premiere",
+    "Web - Javascript, PHP, MySQL, HTML, CSS, Flash"
+  ]
+}
+```
+
+</details>
+
+#### DUT IT (2009 - 2011)
+
+<details>
+
+```json
+{
+  "school": "University of La Rochelle",
+  "skills": "C++, Java, C, SQL, Embedded computing"
 }
 ```
 
