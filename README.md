@@ -13,12 +13,6 @@ const basic_infos: Informations = () => ({
 })
 ```
 
-## Currently listening / last played track
-
-![my-spotify](https://img.shields.io/static/v1?label=My&message=Spotify&color=1DB954&style=flat-square&logo=spotify)
-
-![current](https://wcastand.vercel.app/api/spotify)
-
 ## If i was a npm package
 
 ![vscode](https://img.shields.io/static/v1?label=&message=vscode&style=flat-square&logo=Visual%20Studio%20Code&color=171718&labelColor=007ACC)
@@ -192,3 +186,18 @@ const basic_infos: Informations = () => ({
 ```
 
 </details>
+
+# Experiments / Me (will add/do stuff here when i feel like it or have ideas)
+
+## Currently listening / last played track
+
+![my-spotify](https://img.shields.io/static/v1?label=My&message=Spotify&color=1DB954&style=flat-square&logo=spotify)
+
+![current](https://wcastand.vercel.app/api/spotify)
+
+- Movies / TV shows / Music
+- Video games (Path of Exile, Valorant, ...)
+- Art / Expo / Museum
+- Sleeping
+- Side projects when i'm motivated and inspired (that one is hard to come by lately)
+- Looking for a job :'(
