@@ -187,7 +187,9 @@ const basic_infos: Informations = () => ({
 
 </details>
 
-# Experiments / Me (will add/do stuff here when i feel like it or have ideas)
+# Experiments / Me
+
+I'll add/do stuff here when i feel like it or have ideas
 
 ## Currently listening / last played track
 
