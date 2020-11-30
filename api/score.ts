@@ -13,7 +13,7 @@ export default async (request: NowRequest, response: NowResponse) => {
     <text x="4" y="14" class="bold">Score</text>
     <text x="4" y="32" class="small">Circle: ${gamestate.circle || 0}</text>
     <text x="4" y="48" class="small">Cross: ${gamestate.cross || 0}</text>
-    <text x="4" y="64" class="small">Cross: ${gamestate.turn ? 'Cross' : 'Circle'}'s turn</text>
+    <text x="4" y="64" class="small">${gamestate.turn ? 'Cross' : 'Circle'}'s turn</text>
   </svg>
   `
 
