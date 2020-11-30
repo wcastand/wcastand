@@ -204,8 +204,37 @@ I'll add/do stuff here when i feel like it or have ideas
 - Side projects when i'm motivated and inspired (that one is hard to come by lately)
 - Looking for a job :'(
 
-## Tic Tac Toe
+## Tic Tac Toe (Trying for fun)
 
 ![tic-tac-toe score](https://wcastand.vercel.app/api/score)
 
-![tic-tac-toe board](https://wcastand.vercel.app/api/tictactoe)
+<a href="https://wcastand.vercel.app/api/game?cell=0">
+  <img src="https://wcastand.vercel.app/api/cell?cell=0"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=1">
+  <img src="https://wcastand.vercel.app/api/cell?cell=1"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=2">
+  <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
+</a>
+
+<a href="https://wcastand.vercel.app/api/game?cell=3">
+  <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=4">
+  <img src="https://wcastand.vercel.app/api/cell?cell=4"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=5">
+  <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
+</a>
+</a>
+
+<a href="https://wcastand.vercel.app/api/game?cell=6">
+  <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=7">
+  <img src="https://wcastand.vercel.app/api/cell?cell=7"/>
+</a>
+<a href="https://wcastand.vercel.app/api/game?cell=8">
+  <img src="https://wcastand.vercel.app/api/cell?cell=8"/>
+</a>
