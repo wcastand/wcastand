@@ -12,10 +12,11 @@ export default async (request: NowRequest, response: NowResponse) => {
 
   console.log(params)
   console.log(gamestate)
+
   let newG = gamestate
   if (gamestate[x][y] === null) {
-    newG[x][y] = params.p
-    newG[3] = params.p === 'circle' ? 'cross' : 'circle'
+    newG[x][y] = gamestate[3]
+    newG[3] = gamestate[3] === 'circle' ? 'cross' : 'circle'
   }
 
   await fetch(`https://api.thisdb.com/v1/${process.env.bucketid}/gamestate`, {

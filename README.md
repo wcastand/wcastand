@@ -206,16 +206,6 @@ I'll add/do stuff here when i feel like it or have ideas
 
 ## Tic Tac Toe
 
-![x:0;y:0](https://wcastand.vercel.app/api/score)
+![tic-tac-toe score](https://wcastand.vercel.app/api/score)
 
-![x:0;y:0](https://wcastand.vercel.app/api/tictactoe?x=0&y=0)
-![x:1;y:0](https://wcastand.vercel.app/api/tictactoe?x=1&y=0)
-![x:2;y:0](https://wcastand.vercel.app/api/tictactoe?x=2&y=0)
-
-![x:0;y:1](https://wcastand.vercel.app/api/tictactoe?x=0&y=1)
-![x:1;y:1](https://wcastand.vercel.app/api/tictactoe?x=1&y=1)
-![x:2;y:1](https://wcastand.vercel.app/api/tictactoe?x=2&y=1)
-
-![x:0;y:2](https://wcastand.vercel.app/api/tictactoe?x=0&y=2)
-![x:1;y:2](https://wcastand.vercel.app/api/tictactoe?x=1&y=2)
-![x:2;y:2](https://wcastand.vercel.app/api/tictactoe?x=2&y=2)
+![tic-tac-toe board](http://localhost:3000/api/tictactoe)
