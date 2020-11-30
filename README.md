@@ -217,7 +217,7 @@ I'll add/do stuff here when i feel like it or have ideas
 <a href="https://wcastand.vercel.app/api/game?cell=2">
   <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
 </a>
-
+<br/>
 <a href="https://wcastand.vercel.app/api/game?cell=3">
   <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
 </a>
@@ -228,7 +228,7 @@ I'll add/do stuff here when i feel like it or have ideas
   <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
 </a>
 </a>
-
+<br/>
 <a href="https://wcastand.vercel.app/api/game?cell=6">
   <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
 </a>
