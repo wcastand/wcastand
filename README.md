@@ -203,3 +203,19 @@ I'll add/do stuff here when i feel like it or have ideas
 - Sleeping
 - Side projects when i'm motivated and inspired (that one is hard to come by lately)
 - Looking for a job :'(
+
+## Tic Tac Toe
+
+![x:0;y:0](http://localhost:3000/api/score)
+
+![x:0;y:0](http://localhost:3000/api/tictactoe?x=0&y=0)
+![x:1;y:0](http://localhost:3000/api/tictactoe?x=1&y=0)
+![x:2;y:0](http://localhost:3000/api/tictactoe?x=2&y=0)
+
+![x:0;y:1](http://localhost:3000/api/tictactoe?x=0&y=1)
+![x:1;y:1](http://localhost:3000/api/tictactoe?x=1&y=1)
+![x:2;y:1](http://localhost:3000/api/tictactoe?x=2&y=1)
+
+![x:0;y:2](http://localhost:3000/api/tictactoe?x=0&y=2)
+![x:1;y:2](http://localhost:3000/api/tictactoe?x=1&y=2)
+![x:2;y:2](http://localhost:3000/api/tictactoe?x=2&y=2)

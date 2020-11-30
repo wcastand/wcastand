@@ -2,11 +2,7 @@ import fetch from 'node-fetch'
 import {} from 'url'
 import { NowRequest, NowResponse } from '@vercel/node'
 
-import { getAccessToken } from '../utils'
-
-function clean(str: string) {
-  return str.replace('&', '&amp;')
-}
+import { getAccessToken, clean } from '../utils'
 
 export default async (request: NowRequest, response: NowResponse) => {
   const token = await getAccessToken()

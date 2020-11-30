@@ -42,3 +42,21 @@ export async function getAccessToken() {
 
   return newToken
 }
+
+export function clean(str: string) {
+  return str.replace(/&/gim, '&amp;')
+}
+
+export async function getGameState() {
+  return (
+    (await fetch(`https://api.thisdb.com/v1/${process.env.bucketid}/gamestate`, {
+      method: 'GET',
+      headers: { 'X-Api-Key': process.env.thisdb },
+    })
+      .then((res) => res.json())
+      .catch((err) => {
+        console.error(err)
+        return null
+      })) ?? [[null, null, null], [null, null, null], [null, null, null], 'cross', 0, 0]
+  )
+}
