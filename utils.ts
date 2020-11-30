@@ -47,7 +47,19 @@ export function clean(str: string) {
   return str.replace(/&/gim, '&amp;')
 }
 
-export async function getGameState() {
+export type State = boolean | null
+export type GameState = {
+  state: [State, State, State, State, State, State, State, State, State]
+  turn: boolean
+  cross: number
+  circle: number
+}
+
+export function initState(cross: number = 0, circle: number = 0): GameState {
+  return { state: [null, null, null, null, null, null, null, null, null], turn: true, cross, circle }
+}
+
+export async function getGameState(): Promise<GameState> {
   return (
     (await fetch(`https://api.thisdb.com/v1/${process.env.bucketid}/gamestate`, {
       method: 'GET',
@@ -57,6 +69,6 @@ export async function getGameState() {
       .catch((err) => {
         console.error(err)
         return null
-      })) ?? [[null, null, null], [null, null, null], [null, null, null], 'cross', 0, 0]
+      })) ?? initState()
   )
 }

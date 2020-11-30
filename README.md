@@ -208,4 +208,4 @@ I'll add/do stuff here when i feel like it or have ideas
 
 ![tic-tac-toe score](https://wcastand.vercel.app/api/score)
 
-![tic-tac-toe board](http://localhost:3000/api/tictactoe)
+![tic-tac-toe board](https://wcastand.vercel.app/api/tictactoe)
