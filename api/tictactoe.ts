@@ -12,7 +12,7 @@ export default async (request: NowRequest, response: NowResponse) => {
   const gamestate = await getGameState()
   const svg = `
   <svg viewBox="0 0 32 32" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
-    <a href="http://localhost:3000/api/game?${qs.encode({ x, y, p: gamestate[3] })}">
+    <a href="https://wcastand.vercel.app/api/game?${qs.encode({ x, y, p: gamestate[3] })}">
       <rect x="0" y="0" fill="#fff" height="32" width="32" />
       ${
         gamestate[x][y] === 'circle'
