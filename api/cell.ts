@@ -35,7 +35,7 @@ export default async (request: NowRequest, response: NowResponse) => {
   // { state: [true, null, false, null, null, null, null, null, null], turn: true, cross: 2, circle: 0 }
   const svg = `
   <svg viewBox="0 0 32 32" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
-    ${Cell(cell, gamestate.state[0])}
+    ${Cell(cell, gamestate.state[cell])}
   </svg>
   `
 
