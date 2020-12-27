@@ -1,4 +1,4 @@
-import RoomService, { MapClient } from '@roomservice/node'
+import RoomService from '@roomservice/node'
 import { NowRequest, NowResponse } from '@vercel/node'
 
 const wincombination = [
@@ -25,12 +25,12 @@ export default async (request: NowRequest, response: NowResponse) => {
     const playerturn = gamestate.get('turn') || (0 as 0 | 1)
     state[cell as string] = playerturn
     const playercells = state.reduce<number[]>((acc, x, idx) => (x === playerturn ? [...acc, idx] : acc), [])
-    if (wincombination.includes(playercells)) {
+    if (wincombination.some((x) => x.every((y) => playercells.includes(y)))) {
       console.log('wind')
       gamestate = gamestate.set('board', [null, null, null, null, null, null, null, null, null])
       gamestate = gamestate.set('turn', 0)
-      const [cross = 0, circle = 0] = gamestate.get('score') as [number, number]
-      gamestate = gamestate.set('score', [playerturn === 0 ? cross + 1 : cross, playerturn === 1 ? circle + 1 : circle])
+      const [cross, circle] = (gamestate.get('score') as [number, number]) || [0, 0]
+      gamestate = gamestate.set('score', [playerturn === 1 ? cross + 1 : cross, playerturn === 0 ? circle + 1 : circle])
     } else {
       console.log('keep going')
       gamestate = gamestate.set('board', state)
@@ -41,5 +41,5 @@ export default async (request: NowRequest, response: NowResponse) => {
   console.log(gamestate.toObject())
   await checkpoint.save(gamestate)
 
-  response.status(301).redirect(request.headers.referer || 'https://github.com/wcastand')
+  response.status(301).redirect('https://github.com/wcastand')
 }
