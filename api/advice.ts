@@ -15,7 +15,9 @@ export default async (_: NowRequest, response: NowResponse) => {
       display: flex;
       justify-content: center;
       align-items: center;
-      position: relative;">
+      position: relative;
+      background-color:white;
+      ">
         <style>
         .text {
           color: #171718;
