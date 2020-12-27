@@ -9,6 +9,20 @@ const authorize_uri = 'https://accounts.spotify.com/authorize'
 
 const scopes = ['user-read-currently-playing', 'user-read-playback-state', 'user-read-recently-played']
 
+export const wincombination = [
+  [0, 1, 2],
+  [3, 4, 5],
+  [6, 7, 8],
+  [0, 3, 6],
+  [1, 4, 7],
+  [2, 5, 8],
+  [0, 4, 8],
+  [2, 4, 6],
+]
+
+export type Cell = null | number
+export type Board = [Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell]
+
 export function getClient() {
   const client = redis.createClient({ url: process.env.REDIS_URL })
   const get = promisify(client.get).bind(client)

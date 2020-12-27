@@ -1,19 +1,7 @@
 import RoomService from '@roomservice/node'
 import { NowRequest, NowResponse } from '@vercel/node'
 
-const wincombination = [
-  [0, 1, 2],
-  [3, 4, 5],
-  [6, 7, 8],
-  [0, 3, 6],
-  [1, 4, 7],
-  [2, 5, 8],
-  [0, 4, 8],
-  [2, 4, 6],
-]
-
-type Cell = null | number
-type Board = [Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell]
+import { wincombination, Board } from '../utils'
 
 export default async (request: NowRequest, response: NowResponse) => {
   const { cell } = request.query
@@ -26,13 +14,11 @@ export default async (request: NowRequest, response: NowResponse) => {
     state[cell as string] = playerturn
     const playercells = state.reduce<number[]>((acc, x, idx) => (x === playerturn ? [...acc, idx] : acc), [])
     if (wincombination.some((x) => x.every((y) => playercells.includes(y)))) {
-      console.log('wind')
       gamestate = gamestate.set('board', [null, null, null, null, null, null, null, null, null])
       gamestate = gamestate.set('turn', 0)
       const [cross, circle] = (gamestate.get('score') as [number, number]) || [0, 0]
       gamestate = gamestate.set('score', [playerturn === 1 ? cross + 1 : cross, playerturn === 0 ? circle + 1 : circle])
     } else {
-      console.log('keep going')
       gamestate = gamestate.set('board', state)
       gamestate = gamestate.set('turn', playerturn === 0 ? 1 : 0)
     }

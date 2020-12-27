@@ -1,10 +1,7 @@
 import RoomService from '@roomservice/node'
 import { NowRequest, NowResponse } from '@vercel/node'
 
-import { clean } from '../utils'
-
-type Cell = null | number
-type Board = [Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell, Cell]
+import { clean, Board } from '../utils'
 
 export default async (request: NowRequest, response: NowResponse) => {
   const { cell } = request.query
