@@ -201,7 +201,7 @@ I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](h
 
 Coming from [Advice Slip](https://api.adviceslip.com)
 
-[adviceslip](https://wcastand.vercel.app/api/advice)
+![adviceslip](https://wcastand.vercel.app/api/advice)
 
 - Movies / TV shows / Music
 - Video games (Path of Exile, Valorant, ...)
