@@ -189,7 +189,7 @@ const basic_infos: Informations = () => ({
 
 # Experiments / Me
 
-I'll add/do stuff here when i feel like it or have ideas
+I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
 
 ## Currently listening / last played track
 
@@ -203,38 +203,3 @@ I'll add/do stuff here when i feel like it or have ideas
 - Sleeping
 - Side projects when i'm motivated and inspired (that one is hard to come by lately)
 - Looking for a job :'(
-
-## Tic Tac Toe (Trying for fun)
-
-![tic-tac-toe score](https://wcastand.vercel.app/api/score)
-
-<a href="https://wcastand.vercel.app/api/game?cell=0">
-  <img src="https://wcastand.vercel.app/api/cell?cell=0"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=1">
-  <img src="https://wcastand.vercel.app/api/cell?cell=1"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=2">
-  <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
-</a>
-<br/>
-<a href="https://wcastand.vercel.app/api/game?cell=3">
-  <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=4">
-  <img src="https://wcastand.vercel.app/api/cell?cell=4"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=5">
-  <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
-</a>
-</a>
-<br/>
-<a href="https://wcastand.vercel.app/api/game?cell=6">
-  <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=7">
-  <img src="https://wcastand.vercel.app/api/cell?cell=7"/>
-</a>
-<a href="https://wcastand.vercel.app/api/game?cell=8">
-  <img src="https://wcastand.vercel.app/api/cell?cell=8"/>
-</a>
