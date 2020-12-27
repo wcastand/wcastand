@@ -237,6 +237,8 @@ Coming from [Advice Slip](https://api.adviceslip.com)
   <img src="https://wcastand.vercel.app/api/cell?cell=8"/>
 </a>
 
+### Things about me
+
 - Movies / TV shows / Music
 - Video games (Path of Exile, Valorant, ...)
 - Art / Expo / Museum
