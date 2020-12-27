@@ -4,6 +4,7 @@
     "@vercel/node": "^1.8.5"
   },
   "dependencies": {
+    "@roomservice/node": "^1.0.0",
     "node-fetch": "^2.6.1",
     "promise-redis": "^0.0.5",
     "redis": "^3.0.2"
