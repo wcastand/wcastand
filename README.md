@@ -207,17 +207,35 @@ Coming from [Advice Slip](https://api.adviceslip.com)
 
 ![gamestate](https://wcastand.vercel.app/api/gamestate)
 
-[![cell 0](https://wcastand.vercel.app/api/cell?cell=0)](https://wcastand.vercel.app/api/cell-action?cell=0)
-[![cell 1](https://wcastand.vercel.app/api/cell?cell=1)](https://wcastand.vercel.app/api/cell-action?cell=1)
-[![cell 2](https://wcastand.vercel.app/api/cell?cell=2)](https://wcastand.vercel.app/api/cell-action?cell=2)
+<a href="https://wcastand.vercel.app/api/cell-action?cell=0">
+  <img src="https://wcastand.vercel.app/api/cell?cell=0"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=1">
+  <img src="https://wcastand.vercel.app/api/cell?cell=1"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=2">
+  <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
+</a>
 
-[![cell 3](https://wcastand.vercel.app/api/cell?cell=3)](https://wcastand.vercel.app/api/cell-action?cell=3)
-[![cell 4](https://wcastand.vercel.app/api/cell?cell=4)](https://wcastand.vercel.app/api/cell-action?cell=4)
-[![cell 5](https://wcastand.vercel.app/api/cell?cell=5)](https://wcastand.vercel.app/api/cell-action?cell=5)
+<a href="https://wcastand.vercel.app/api/cell-action?cell=3">
+  <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=4">
+  <img src="https://wcastand.vercel.app/api/cell?cell=4"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=5">
+  <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
+</a>
 
-[![cell 6](https://wcastand.vercel.app/api/cell?cell=6)](https://wcastand.vercel.app/api/cell-action?cell=6)
-[![cell 7](https://wcastand.vercel.app/api/cell?cell=7)](https://wcastand.vercel.app/api/cell-action?cell=7)
-[![cell 8](https://wcastand.vercel.app/api/cell?cell=8)](https://wcastand.vercel.app/api/cell-action?cell=8)
+<a href="https://wcastand.vercel.app/api/cell-action?cell=6">
+  <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=7">
+  <img src="https://wcastand.vercel.app/api/cell?cell=7"/>
+</a>
+<a href="https://wcastand.vercel.app/api/cell-action?cell=8">
+  <img src="https://wcastand.vercel.app/api/cell?cell=8"/>
+</a>
 
 - Movies / TV shows / Music
 - Video games (Path of Exile, Valorant, ...)

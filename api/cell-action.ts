@@ -41,5 +41,5 @@ export default async (request: NowRequest, response: NowResponse) => {
   console.log(gamestate.toObject())
   await checkpoint.save(gamestate)
 
-  response.status(301).redirect(request.headers.referer || request.headers.origin || 'https://github.com/wcastand')
+  response.status(301).redirect(request.headers.referer || 'https://github.com/wcastand')
 }
