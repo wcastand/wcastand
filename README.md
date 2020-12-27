@@ -216,7 +216,7 @@ Coming from [Advice Slip](https://api.adviceslip.com)
 <a href="https://wcastand.vercel.app/api/cell-action?cell=2">
   <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
 </a>
-
+<br/>
 <a href="https://wcastand.vercel.app/api/cell-action?cell=3">
   <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
 </a>
@@ -226,7 +226,7 @@ Coming from [Advice Slip](https://api.adviceslip.com)
 <a href="https://wcastand.vercel.app/api/cell-action?cell=5">
   <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
 </a>
-
+<br/>
 <a href="https://wcastand.vercel.app/api/cell-action?cell=6">
   <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
 </a>
