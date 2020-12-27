@@ -191,6 +191,10 @@ const basic_infos: Informations = () => ({
 
 I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
 
+## Visit Counter
+
+![visit counter](https://wcastand.vercel.app/api/counter)
+
 ## Currently listening / last played track
 
 ![my-spotify](https://img.shields.io/static/v1?label=My&message=Spotify&color=1DB954&style=flat-square&logo=spotify)
