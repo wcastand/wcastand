@@ -248,4 +248,4 @@ Coming from [Advice Slip](https://api.adviceslip.com)
 - Art / Expo / Museum
 - Sleeping
 - Side projects when i'm motivated and inspired (that one is hard to come by lately)
-- Looking for a job :'(
+- looking for a full time remote position
