@@ -189,7 +189,7 @@ const basic_infos: Informations = () => ({
 
 # Experiments / Me
 
-I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
+I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/)(looks like it's dead) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
 
 ## Visit Counter
 
