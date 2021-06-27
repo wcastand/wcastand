@@ -10,6 +10,7 @@ const basic_infos: Informations = () => ({
   location: 'France',
   github: 'wcastand',
   npm: 'wcastand',
+  site: 'wcastand.dev'
 })
 ```
 
