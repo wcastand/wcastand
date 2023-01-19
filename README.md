@@ -191,58 +191,7 @@ const basic_infos: Informations = () => ({
 
 # Experiments / Me
 
-I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/)(looks like it's dead) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
-
-## Visit Counter
-
-![visit counter](https://wcastand.vercel.app/api/counter)
-
-## Currently listening / last played track
-
-![my-spotify](https://img.shields.io/static/v1?label=My&message=Spotify&color=1DB954&style=flat-square&logo=spotify)
-
-![current](https://wcastand.vercel.app/api/spotify)
-
-## Random advice
-
-Coming from [Advice Slip](https://api.adviceslip.com)
-
-![adviceslip](https://wcastand.vercel.app/api/advice)
-
-## Tic Tac Tow (RoomService)
-
-![gamestate](https://wcastand.vercel.app/api/gamestate)
-
-<a href="https://wcastand.vercel.app/api/cell-action?cell=0">
-  <img src="https://wcastand.vercel.app/api/cell?cell=0"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=1">
-  <img src="https://wcastand.vercel.app/api/cell?cell=1"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=2">
-  <img src="https://wcastand.vercel.app/api/cell?cell=2"/>
-</a>
-<br/>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=3">
-  <img src="https://wcastand.vercel.app/api/cell?cell=3"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=4">
-  <img src="https://wcastand.vercel.app/api/cell?cell=4"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=5">
-  <img src="https://wcastand.vercel.app/api/cell?cell=5"/>
-</a>
-<br/>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=6">
-  <img src="https://wcastand.vercel.app/api/cell?cell=6"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=7">
-  <img src="https://wcastand.vercel.app/api/cell?cell=7"/>
-</a>
-<a href="https://wcastand.vercel.app/api/cell-action?cell=8">
-  <img src="https://wcastand.vercel.app/api/cell?cell=8"/>
-</a>
-
+I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/)(looks like it's dead so i removed the thingy) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
 ### Things about me
 
 - Movies / TV shows / Music
