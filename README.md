@@ -9,8 +9,7 @@ const basic_infos: Informations = () => ({
   age: 29,
   location: 'France',
   github: 'wcastand',
-  npm: 'wcastand',
-  site: 'wcastand.dev'
+  npm: 'wcastand'
 })
 ```
 
@@ -59,6 +58,8 @@ const basic_infos: Informations = () => ({
 - Articles / blog / community based tools / ...
 
 ### Experiences
+
+#### Green-got (February 2022 - now)
 
 #### Paybase (May 2019 - July 2020)
 
