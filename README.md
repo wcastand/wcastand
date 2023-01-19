@@ -14,8 +14,6 @@ const basic_infos: Informations = () => ({
 })
 ```
 
-LOOKING FOR A JOB
-
 ## If i was a npm package
 
 ![vscode](https://img.shields.io/static/v1?label=&message=vscode&style=flat-square&logo=Visual%20Studio%20Code&color=171718&labelColor=007ACC)
