@@ -189,13 +189,9 @@ const basic_infos: Informations = () => ({
 
 </details>
 
-# Experiments / Me
-
-I'll add/do stuff here when i feel like it or have ideas. Using [Lambda Store](https://lambda.store/)(looks like it's dead so i removed the thingy) as a database and [vercel](https://vercel.com/) to host. I will probably look into doing something with [room service](https://www.roomservice.dev/) maybe [Superbase](https://supabase.io/) too.
 ### Things about me
 
 - Movies / TV shows / Music
 - Video games (Path of Exile, Valorant, ...)
-- Art / Expo / Museum
-- Sleeping
-- Side projects when i'm motivated and inspired (that one is hard to come by lately)
+- Art / Expo / Museum / Concert / Festival
+- Side projects when i'm motivated and inspired
