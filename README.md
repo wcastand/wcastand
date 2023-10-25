@@ -6,10 +6,10 @@ import Informations from 'self-description'
 const basic_infos: Informations = () => ({
   firstname: 'William',
   lastname: 'Castandet',
-  age: 32,
   location: 'France',
   github: 'wcastand',
-  npm: 'wcastand'
+  npm: 'wcastand',
+  age: 32,
 })
 ```
 
