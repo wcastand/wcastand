@@ -44,19 +44,6 @@ const basic_infos: Informations = () => ({
 ![Git](https://img.shields.io/static/v1?label=&message=Git&style=flat-square&logo=Git&color=171718&labelColor=F05032&logoColor=fff)
 ![1Password](https://img.shields.io/static/v1?label=&message=1Password&style=flat-square&logo=1Password&color=171718&labelColor=0094F5&logoColor=fff)
 
-#### Other things worth mentionning (maybe)
-
-- React Native, Hapi, Express
-- ArangoDB, Redis
-- Hosting service (Heroku, AWS, Google Cloud, Firebase, ...)
-- Agile software development (Sprints, Kanban, stand up, ...)
-
-#### Things i'd like to learn/do or started learning
-
-- Rust / WASM / Haskell
-- Interactive design (graph, ...)
-- Articles / blog / community based tools / ...
-
 ### Experiences
 
 #### Green-got (February 2022 - now)
@@ -192,6 +179,8 @@ const basic_infos: Informations = () => ({
 ### Things about me
 
 - Movies / TV shows / Music
+- Board games
+- Badminton
 - Video games (Path of Exile, Valorant, ...)
 - Art / Expo / Museum / Concert / Festival
 - Side projects when i'm motivated and inspired
