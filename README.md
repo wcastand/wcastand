@@ -9,7 +9,7 @@ const basic_infos: Informations = () => ({
   location: 'France',
   github: 'wcastand',
   npm: 'wcastand',
-  age: 32,
+  age: 33,
 })
 ```
 
