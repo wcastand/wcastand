@@ -26,7 +26,7 @@ const basic_infos: Informations = () => ({
 ![Npm](https://img.shields.io/static/v1?label=&message=Npm&style=flat-square&logo=Npm&color=171718&labelColor=CB3837&logoColor=fff)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&style=flat-square&logo=CSS3&color=171718&labelColor=1572B6&logoColor=fff)
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&style=flat-square&logo=HTML5&color=171718&labelColor=E34F26&logoColor=fff)
-![Prettier](https://img.shields.io/static/v1?label=&message=Prettier&style=flat-square&logo=Prettier&color=171718&labelColor=F7B93E&logoColor=fff)
+![Biome](https://img.shields.io/static/v1?label=&message=Biome&style=flat-square&logo=Biome&color=60A5FA&labelColor=60A5FA&logoColor=fff)
 ![Expo](https://img.shields.io/static/v1?label=&message=Expo&style=flat-square&logo=Expo&color=171718&labelColor=000020&logoColor=fff)
 ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=171718&labelColor=E10098&logoColor=fff)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&logo=MongoDB&color=171718&labelColor=47A248&logoColor=fff)
