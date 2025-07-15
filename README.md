@@ -20,20 +20,14 @@ const basic_infos: Informations = () => ({
 ![Javscript](https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&logo=Javascript&color=171718&labelColor=F7DF1E&logoColor=fff)
 ![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=Typescript&color=171718&labelColor=007ACC&logoColor=fff)
 ![React](https://img.shields.io/static/v1?label=&message=React&style=flat-square&logo=React&color=171718&labelColor=61DAFB&logoColor=fff)
-![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&style=flat-square&logo=Gatsby&color=171718&labelColor=663399&logoColor=fff)
-![styled-components](https://img.shields.io/static/v1?label=&message=styled-components&style=flat-square&logo=styled-components&color=171718&labelColor=DB7093&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/static/v1?label=&message=Tailwind-CSS&style=flat-square&logo=Tailwind-CSS&color=171718&labelColor=38B2AC&logoColor=fff)
-![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&style=flat-square&logo=Next.js&color=171718&labelColor=000&logoColor=fff)
 ![Jest](https://img.shields.io/static/v1?label=&message=Jest&style=flat-square&logo=Jest&color=171718&labelColor=C21325&logoColor=fff)
 ![Yarn](https://img.shields.io/static/v1?label=&message=Yarn&style=flat-square&logo=Yarn&color=171718&labelColor=2C8EBB&logoColor=fff)
 ![Npm](https://img.shields.io/static/v1?label=&message=Npm&style=flat-square&logo=Npm&color=171718&labelColor=CB3837&logoColor=fff)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&style=flat-square&logo=CSS3&color=171718&labelColor=1572B6&logoColor=fff)
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&style=flat-square&logo=HTML5&color=171718&labelColor=E34F26&logoColor=fff)
 ![Prettier](https://img.shields.io/static/v1?label=&message=Prettier&style=flat-square&logo=Prettier&color=171718&labelColor=F7B93E&logoColor=fff)
-![Storybook](https://img.shields.io/static/v1?label=&message=Storybook&style=flat-square&logo=Storybook&color=171718&labelColor=FF4785&logoColor=fff)
 ![Expo](https://img.shields.io/static/v1?label=&message=Expo&style=flat-square&logo=Expo&color=171718&labelColor=000020&logoColor=fff)
-![rollup.js](https://img.shields.io/static/v1?label=&message=rollup.js&style=flat-square&logo=rollup.js&color=171718&labelColor=EC4A3F&logoColor=fff)
-![Webpack](https://img.shields.io/static/v1?label=&message=Webpack&style=flat-square&logo=Webpack&color=171718&labelColor=8DD6F9&logoColor=fff)
 ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=171718&labelColor=E10098&logoColor=fff)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&logo=MongoDB&color=171718&labelColor=47A248&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat-square&logo=PostgreSQL&color=171718&labelColor=336791&logoColor=fff)
@@ -43,10 +37,26 @@ const basic_infos: Informations = () => ({
 ![CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&style=flat-square&logo=CircleCI&color=171718&labelColor=343434&logoColor=fff)
 ![Git](https://img.shields.io/static/v1?label=&message=Git&style=flat-square&logo=Git&color=171718&labelColor=F05032&logoColor=fff)
 ![1Password](https://img.shields.io/static/v1?label=&message=1Password&style=flat-square&logo=1Password&color=171718&labelColor=0094F5&logoColor=fff)
+![Bun](https://img.shields.io/static/v1?label=&message=Bun&style=flat-square&logo=Bun&color=171718&labelColor=0094F5&logoColor=fff)
 
 ### Experiences
 
 #### Green-got (February 2022 - now)
+
+<details>
+
+```js
+{
+  "title": "Mobile developer",
+  "skills": `
+    Working on a product full time instead of short projects for the first time, lead frontend.
+    Working with GraphQL, React, React-Native, Expo, Eas, ...
+    Working on mobile experience full time, handling release, support tech, project planning, ...
+  `
+}
+```
+
+</details>
 
 #### Paybase (May 2019 - July 2020)
 
